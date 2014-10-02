@@ -1,5 +1,5 @@
 ## Develeper by: Julierme Heinstein ##
-## Question write for SPOJ Brasil ##
+## Code resolution for SPOJ Brasil ##
 num = int(raw_input ())
 
 lst = []
