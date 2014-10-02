@@ -1,0 +1,10 @@
+## Developer by: Julierme Heinstein ##
+## Code write for myself ##
+# coting utf-8 #
+r = raw_input ("Repetir? ")
+
+while (r == "sim" or r == "s"): 
+	n = int(raw_input("Quantas repeticoes: "))
+	for i in xrange(n):
+		print "Affs"
+	r = raw_input ("Repetir? ")
